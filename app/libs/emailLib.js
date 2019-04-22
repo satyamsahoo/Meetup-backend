@@ -5,7 +5,7 @@ let sendPasswordResetEmail=(emailDetails)=>{
 
     account = {
         email : 'narutocool67@gmail.com',
-        password: 'naruto@007'
+        password: '###########'
     }
 
     let transporter = nodemailer.createTransport(smtptransport({
